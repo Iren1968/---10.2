@@ -1,0 +1,31 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iren1968/test10_jest.git"
+  },
+  "keywords": [
+    "test",
+    "js",
+    "javascript",
+    "jest"
+  ],
+  "author": "iren <kapadolgova@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iren1968/test10_jest/issues"
+  },
+  "homepage": "https://github.com/Iren1968/test10_jest#readme",
+  "dependencies": {
+    "jest": "^29.4.3"
+  },
+  "devDependencies": {
+    "babel-plugin-istanbul": "^6.1.1"
+  }
+}
